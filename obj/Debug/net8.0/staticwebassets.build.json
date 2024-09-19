@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "TArUbxV3j1UvaktgX41b92KOGBmFbytup1NyylGyJKs=",
+  "Source": "ASP.NET Core web server",
+  "BasePath": "_content/ASP.NET Core web server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASP.NET Core web server\\wwwroot",
+      "Source": "ASP.NET Core web server",
+      "ContentRoot": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\ASP.NET-Core-web-server\\ASP.NET-Core-web-server\\wwwroot\\",
+      "BasePath": "_content/ASP.NET Core web server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\ASP.NET-Core-web-server\\ASP.NET-Core-web-server\\wwwroot\\index.css",
+      "SourceId": "ASP.NET Core web server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\ASP.NET-Core-web-server\\ASP.NET-Core-web-server\\wwwroot\\",
+      "BasePath": "_content/ASP.NET Core web server",
+      "RelativePath": "index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.css"
+    },
+    {
+      "Identity": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\ASP.NET-Core-web-server\\ASP.NET-Core-web-server\\wwwroot\\index.html",
+      "SourceId": "ASP.NET Core web server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\ASP.NET-Core-web-server\\ASP.NET-Core-web-server\\wwwroot\\",
+      "BasePath": "_content/ASP.NET Core web server",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

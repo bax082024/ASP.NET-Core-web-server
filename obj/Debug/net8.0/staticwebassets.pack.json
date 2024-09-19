@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\ASP.NET-Core-web-server\\ASP.NET-Core-web-server\\wwwroot\\index.css",
+      "PackagePath": "staticwebassets\\index.css"
+    },
+    {
+      "Id": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\ASP.NET-Core-web-server\\ASP.NET-Core-web-server\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ASP.NET Core web server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ASP.NET Core web server.props",
+      "PackagePath": "build\\ASP.NET Core web server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ASP.NET Core web server.props",
+      "PackagePath": "buildMultiTargeting\\ASP.NET Core web server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ASP.NET Core web server.props",
+      "PackagePath": "buildTransitive\\ASP.NET Core web server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

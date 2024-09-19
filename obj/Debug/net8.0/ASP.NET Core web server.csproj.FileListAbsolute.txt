@@ -1,0 +1,27 @@
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\bin\Debug\net8.0\appsettings.Development.json
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\bin\Debug\net8.0\appsettings.json
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\bin\Debug\net8.0\ASP.NET Core web server.staticwebassets.runtime.json
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\bin\Debug\net8.0\ASP.NET Core web server.exe
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\bin\Debug\net8.0\ASP.NET Core web server.deps.json
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\bin\Debug\net8.0\ASP.NET Core web server.runtimeconfig.json
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\bin\Debug\net8.0\ASP.NET Core web server.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\bin\Debug\net8.0\ASP.NET Core web server.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\ASP.NET Core web server.GeneratedMSBuildEditorConfig.editorconfig
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\ASP.NET Core web server.AssemblyInfoInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\ASP.NET Core web server.AssemblyInfo.cs
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\ASP.NET Core web server.csproj.CoreCompileInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\ASP.NET Core web server.MvcApplicationPartsAssemblyInfo.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\ASP.NET Core web server.sourcelink.json
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\staticwebassets.build.json
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\staticwebassets.development.json
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET Core web server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET Core web server.props
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Core web server.props
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET Core web server.props
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\scopedcss\bundle\ASP.NET Core web server.styles.css
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\ASP.NET Core web server.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\refint\ASP.NET Core web server.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\ASP.NET Core web server.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\ASP.NET Core web server.genruntimeconfig.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\ASP.NET-Core-web-server\ASP.NET-Core-web-server\obj\Debug\net8.0\ref\ASP.NET Core web server.dll

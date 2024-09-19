@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\busch\\Documents\\projects\\C-Sharp\\C-Sharp\\ASP.NET Core web server\\ASP.NET Core web server.csproj",
+      "projectUniqueName": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\ASP.NET-Core-web-server\\ASP.NET-Core-web-server\\ASP.NET Core web server.csproj",
       "projectName": "ASP.NET Core web server",
-      "projectPath": "C:\\Users\\busch\\Documents\\projects\\C-Sharp\\C-Sharp\\ASP.NET Core web server\\ASP.NET Core web server.csproj",
+      "projectPath": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\ASP.NET-Core-web-server\\ASP.NET-Core-web-server\\ASP.NET Core web server.csproj",
       "packagesPath": "C:\\Users\\busch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\busch\\Documents\\projects\\C-Sharp\\C-Sharp\\ASP.NET Core web server\\obj\\",
+      "outputPath": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\ASP.NET-Core-web-server\\ASP.NET-Core-web-server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\busch\\AppData\\Roaming\\NuGet\\NuGet.Config"
